@@ -18,7 +18,7 @@ I'm a frontend developer with 4+ years of experience in React and Next.js, and 2
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,sass,flutter,nodejs,express,mongodb,mysql,postgres,github,git,vercel,supabase)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=threejs,nestjs)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
